@@ -1,4 +1,4 @@
-# Flutter Riddles
+# NEC License Guru
 
 NEC License Guru is a quiz application designed to assist engineers in preparing for the license exam of the Nepal Engineering Council (NEC). Built with Flutter, this app offers a straightforward approach to studying various topics essential for passing the exam.
 
