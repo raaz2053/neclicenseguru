@@ -218,10 +218,10 @@ final widgetQuestionsList = [
   WidgetQuestion(
       text:"What is the purpose of the control unit in a CPU?",
       options: [
-        const WiidgetOption(text: "To perform arithmetic and logical operations on data.", isCorrect: false),
-        const WiidgetOption(text: "To store and retrieve data from memory", isCorrect: false),
+        const WiidgetOption(text: "To perform arithmetic and logical \noperations on data.", isCorrect: false),
+        const WiidgetOption(text: "To store and retrieve data from \nmemory", isCorrect: false),
         const WiidgetOption(text: "To print data from memory", isCorrect: false),
-        const WiidgetOption(text: "interpret instructions and control the flow of data", isCorrect: true),
+        const WiidgetOption(text: "interpret instructions and control the \nflow of data", isCorrect: true),
       ],
       id:15 ,
       correctAnswer: const WiidgetOption(text: "To interpret instructions and control the flow of data within the CPU.", isCorrect: true)),

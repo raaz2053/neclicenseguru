@@ -27,7 +27,7 @@ final List<FlutterTopics> flutterTopicsList = [
     id: 0, //widget_questions
     topicColor: cardColor,
     topicIcon: CupertinoIcons.antenna_radiowaves_left_right,
-    topicName: "Electronics and Communications",
+    topicName: "Electronics and \nCommunications",
     topicQuestions: widgetQuestionsList,
   ),
   FlutterTopics(
