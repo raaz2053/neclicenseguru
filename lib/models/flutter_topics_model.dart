@@ -24,31 +24,31 @@ class FlutterTopics {
 
 final List<FlutterTopics> flutterTopicsList = [
   FlutterTopics(
-    id: 0,
+    id: 0, //widget_questions
     topicColor: cardColor,
-    topicIcon: CupertinoIcons.square_stack_3d_up,
-    topicName: "Widgets",
+    topicIcon: CupertinoIcons.antenna_radiowaves_left_right,
+    topicName: "Electronics and Communications",
     topicQuestions: widgetQuestionsList,
   ),
   FlutterTopics(
-    id: 1,
+    id: 1, //state
     topicColor: cardColor,
     topicIcon: CupertinoIcons.arrow_2_circlepath,
-    topicName: "State Management",
+    topicName: "NEC model 2",
     topicQuestions: stateQuestionsList,
   ),
   FlutterTopics(
-    id: 2,
+    id: 2,  //navigation
     topicColor: cardColor,
     topicIcon: CupertinoIcons.paperplane,
-    topicName: "Navigation and Routing",
+    topicName: "NEC model 3",
     topicQuestions: navigateQuestionsList,
   ),
   FlutterTopics(
-    id: 3,
+    id: 3, //layout
     topicColor: cardColor,
     topicIcon: CupertinoIcons.rectangle_arrow_up_right_arrow_down_left,
-    topicName: "Layouts and UI",
+    topicName: "NEC model 4",
     topicQuestions: layOutQuestionsList,
   ),
 ];

@@ -27,7 +27,7 @@ class _NewCardState extends State<NewCard> {
 
     // Get a list of 4 randomly selected Questions objects
     Map<dynamic, dynamic> randomQuestionsMap =
-        getRandomQuestionsAndOptions(widget.typeOfTopic, 4);
+        getRandomQuestionsAndOptions(widget.typeOfTopic, 20);
 
     List<dynamic> randomQuestions = randomQuestionsMap.keys.toList();
     dynamic randomOptions = randomQuestionsMap.values.toList();

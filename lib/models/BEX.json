@@ -1,0 +1,1152 @@
+[
+    {
+      "id": 1,
+      "question": "Decibel relation for power gain is:",
+      "options": [
+        {
+          "text": "𝑁𝑑𝐵=20 𝑙𝑜𝑔10(𝑉22/𝑉12)+ 20 𝑙𝑜𝑔10(𝑍1/𝑍2)",
+          "isCorrect": false
+        },
+        {
+          "text": "𝑁𝑑𝐵=10 𝑙𝑜𝑔10(𝑉22/𝑉12)+ 10 𝑙𝑜𝑔10(𝑍1/𝑍2)",
+          "isCorrect": false
+        },
+        {
+          "text": "𝑁𝑑𝐵=20 𝑙𝑜𝑔10(𝑉2/𝑉1)+ 10 𝑙𝑜𝑔10(𝑍2/𝑍1)",
+          "isCorrect": true
+        },
+        {
+          "text": "𝑁𝑑𝐵=10 𝑙𝑜𝑔10(𝑉2/𝑉1)+ 10 𝑙𝑜𝑔10(𝑍2/𝑍1)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 2,
+      "question": "Maximum power that can be transfer from source to load is:",
+      "options": [
+        {
+          "text": "25%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 3,
+      "question": "Power factor 𝑅/𝑍 has maximum value of:",
+      "options": [
+        {
+          "text": "0.0",
+          "isCorrect": false
+        },
+        {
+          "text": "0.5",
+          "isCorrect": false
+        },
+        {
+          "text": "1.0",
+          "isCorrect": true
+        },
+        {
+          "text": "1.5",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 4,
+      "question": "EEPROM has drain and floating gate gap of …..",
+      "options": [
+        {
+          "text": "5 nm",
+          "isCorrect": false
+        },
+        {
+          "text": "10 nm",
+          "isCorrect": false
+        },
+        {
+          "text": "12 nm",
+          "isCorrect": true
+        },
+        {
+          "text": "15 nm",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 5,
+      "question": "Heisenberg principle of uncertainty says:",
+      "options": [
+        {
+          "text": "Signal of 10Hz can be generated.",
+          "isCorrect": false
+        },
+        {
+          "text": "Signal of 10MHz can be generated.",
+          "isCorrect": false
+        },
+        {
+          "text": "Signal of 100MHz can be generated.",
+          "isCorrect": false
+        },
+        {
+          "text": "Signal of band 100MHz-105MHz can be generated",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 6,
+      "question": "UHF frequency signal can be amplified using:",
+      "options": [
+        {
+          "text": "Class A amplifier",
+          "isCorrect": false
+        },
+        {
+          "text": "Class AB amplifier",
+          "isCorrect": false
+        },
+        {
+          "text": "Class C amplifier",
+          "isCorrect": false
+        },
+        {
+          "text": "Class B amplifier",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 7,
+      "question": "Two’s component of 00011011 is:",
+      "options": [
+        {
+          "text": "11100100",
+          "isCorrect": false
+        },
+        {
+          "text": "11100101",
+          "isCorrect": true
+        },
+        {
+          "text": "11000101",
+          "isCorrect": false
+        },
+        {
+          "text": "11110001",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 8,
+      "question": "Elementary building block of combinational circuit is:",
+      "options": [
+        {
+          "text": "Logic gate",
+          "isCorrect": true
+        },
+        {
+          "text": "Flip-flop",
+          "isCorrect": false
+        },
+        {
+          "text": "Both logic gate and flip-flop",
+          "isCorrect": false
+        },
+        {
+          "text": "Memory",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 9,
+      "question": "Synchronous circuit that changes its state at specific clock signal is:",
+      "options": [
+        {
+          "text": "Event driven",
+          "isCorrect": false
+        },
+        {
+          "text": "Clock driven",
+          "isCorrect": true
+        },
+        {
+          "text": "Pulse driven",
+          "isCorrect": false
+        },
+        {
+          "text": "Frequency driven",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Bandwidth of microprocessor represents:",
+      "options": [
+        {
+          "text": "Clock speed",
+          "isCorrect": false
+        },
+        {
+          "text": "Width of internal bus",
+          "isCorrect": false
+        },
+        {
+          "text": "Number of bit processed/instruction",
+          "isCorrect": false
+        },
+        {
+          "text": "Number of bit processed/sec",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 11,
+      "question": "PPI 8255 has internal bus of size:",
+      "options": [
+        {
+          "text": "4 bit",
+          "isCorrect": false
+        },
+        {
+          "text": "8 bit",
+          "isCorrect": true
+        },
+        {
+          "text": "16 bit",
+          "isCorrect": false
+        },
+        {
+            "text": "32 bit",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Interrupt Service Route (ISR) executes",
+        "options": [
+          {
+            "text": "Before execution of current instructions",
+            "isCorrect": false
+          },
+          {
+            "text": "With pause of current instructions",
+            "isCorrect": false
+          },
+          {
+            "text": "After execution of current instructions",
+            "isCorrect": true
+          },
+          {
+            "text": "With execution of no instruction",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 13,
+        "question": "Which of the following is not a data type in C?",
+        "options": [
+          {
+            "text": "int",
+            "isCorrect": false
+          },
+          {
+            "text": "float",
+            "isCorrect": false
+          },
+          {
+            "text": "String",
+            "isCorrect": true
+          },
+          {
+            "text": "char",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What is the size of a pointer in C?",
+        "options": [
+          {
+            "text": "1 byte",
+            "isCorrect": false
+          },
+          {
+            "text": "2 bytes",
+            "isCorrect": false
+          },
+          {
+            "text": "4 bytes",
+            "isCorrect": false
+          },
+          {
+            "text": "It depends on the system architecture",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 15,
+        "question": "Which access specifier is used to make the members of a class accessible only within the same class?",
+        "options": [
+          {
+            "text": "public",
+            "isCorrect": false
+          },
+          {
+            "text": "private",
+            "isCorrect": true
+          },
+          {
+            "text": "protected",
+            "isCorrect": false
+          },
+          {
+            "text": "public and protected",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What is operator overloading in C++?",
+        "options": [
+          {
+            "text": "Defining a new operator.",
+            "isCorrect": false
+          },
+          {
+            "text": "Overriding an existing operator.",
+            "isCorrect": false
+          },
+          {
+            "text": "Changing the behaviour of an existing operator.",
+            "isCorrect": true
+          },
+          {
+            "text": "Changing the behaviour of new operator.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What is the difference between ifstream and ofstream in C++?",
+        "options": [
+          {
+            "text": "ifstream is used for input, while ofstream is used for output.",
+            "isCorrect": true
+          },
+          {
+            "text": "ofstream is used for input, while ifstream is used for output.",
+            "isCorrect": false
+          },
+          {
+            "text": "both are used as input.",
+            "isCorrect": false
+          },
+          {
+            "text": "both are used as output",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 18,
+        "question": "What is a class template in C++?",
+        "options": [
+          {
+            "text": "A class that can be used to create objects of different types.",
+            "isCorrect": true
+          },
+          {
+            "text": "A function that can be used to create objects of different types.",
+            "isCorrect": false
+          },
+          {
+            "text": "A variable that can be used to create objects of different types.",
+            "isCorrect": false
+          },
+          {
+            "text": "A character that can be used to create objects of different types.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 19,
+        "question": "What is the purpose of the control unit in a CPU?",
+        "options": [
+          {
+            "text": "To perform arithmetic and logical operations on data.",
+            "isCorrect": false
+          },
+          {
+            "text": "To store and retrieve data from memory.",
+            "isCorrect": false
+          },
+          {
+            "text": "To interpret instructions and control the flow of data within the CPU.",
+            "isCorrect": true
+          },
+          {
+            "text": "To print data from memory",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What is the purpose of the cache replacement policy?",
+        "options": [
+          {
+            "text": "To determine which data to store in the cache.",
+            "isCorrect": false
+          },
+          {
+            "text": "To determine which data to evict from the cache when space is needed.",
+            "isCorrect": true
+          },
+          {
+            "text": "To determine how many levels of cache to use.",
+            "isCorrect": false
+          },
+          {
+            "text": "To determined which data to store in RAM.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 21,
+        "question": "Which of the following is not a type of DMA transfer mode?",
+        "options": [
+          {
+            "text": "Burst mode",
+            "isCorrect": false
+          },
+          {
+            "text": "Cycle-stealing mode",
+            "isCorrect": false
+          },
+          {
+            "text": "Interrupt mode",
+            "isCorrect": false
+          },
+          {
+            "text": "Instruction mode.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 22,
+        "question": "An instruction set refers to a set of -----------",
+        "options": [
+          {
+            "text": "rules for writing code in a specific programming language.",
+            "isCorrect": false
+          },
+          {
+            "text": "instructions that a processor can execute.",
+            "isCorrect": true
+          },
+          {
+            "text": "input/output operations that a processor can perform.",
+            "isCorrect": false
+          },
+          {
+            "text": "printing command",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 23,
+        "question": "What is a real-time kernel?",
+        "options": [
+          {
+            "text": "The core component of a real-time operating system.",
+            "isCorrect": true
+          },
+          {
+            "text": "The user interface of a real-time operating system.",
+            "isCorrect": false
+          },
+          {
+            "text": "The hardware component of a real-time operating system.",
+            "isCorrect": false
+          },
+          {
+            "text": "The core component of a real-time pointer system.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 24,
+        "question": "What is a signal in VHDL?",
+        "options": [
+          {
+            "text": "A variable used to store a value in a digital circuit.",
+            "isCorrect": false
+          },
+          {
+            "text": "A physical wire used to transmit data in a digital circuit.",
+            "isCorrect": false
+          },
+          {
+            "text": "A function used to perform a specific task in VHDL.",
+            "isCorrect": false
+          },
+          {
+            "text": "A file used to store a specific task.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 25,
+        "question": "Which of the following is an example of a physical layer protocol?",
+        "options": [
+          {
+            "text": "Ethernet",
+            "isCorrect": true
+          },
+          {
+            "text": "TCP",
+            "isCorrect": false
+          },
+          {
+            "text": "HTTP",
+            "isCorrect": false
+          },
+          {
+            "text": "ISP",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 26,
+        "question": "The PPP of the OSI model operates at ---------------",
+        "options": [
+          {
+            "text": "Physical layer",
+            "isCorrect": false
+          },
+          {
+            "text": "Data link layer",
+            "isCorrect": true
+          },
+          {
+            "text": "Network layer",
+            "isCorrect": false
+          },
+          {
+            "text": "Transport layer",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 27,
+        "question": "Which of the following is a type of routing algorithm used in the network layer?",
+        "options": [
+          {
+            "text": "Link-state routing",
+            "isCorrect": true
+          },
+          {
+            "text": "Distance-vector routing",
+            "isCorrect": true
+          },
+          {
+            "text": "Path-vector routing",
+            "isCorrect": true
+          },
+          {
+            "text": "All of the above.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 28,
+        "question": "Which protocol is responsible for error detection and correction at the transport layer?",
+        "options": [
+          {
+            "text": "TCP",
+            "isCorrect": true
+          },
+          {
+            "text": "UDP",
+            "isCorrect": false
+          },
+          {
+            "text": "ICMP",
+            "isCorrect": false
+          },
+          {
+            "text": "ARP",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 29,
+        "question": "Which application layer protocol is used for sending and receiving emails?",
+        "options": [
+          {
+            "text": "HTTP",
+            "isCorrect": false
+          },
+          {
+            "text": "FTP",
+            "isCorrect": false
+          },
+          {
+            "text": "SMTP",
+            "isCorrect": true
+          },
+          {
+            "text": "POP",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 30,
+        "question": "Which of the following is not a common type of firewall?",
+        "options": [
+          {
+            "text": "Packet-filtering firewall",
+            "isCorrect": false
+          },
+          {
+            "text": "Stateful inspection firewall",
+            "isCorrect": false
+          },
+          {
+            "text": "Proxy firewall",
+            "isCorrect": false
+          },
+          {
+            "text": "Encryption firewall",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 31,
+        "question": "The Poisson equation is a partial differential equation that describes ……………",
+        "options": [
+          {
+            "text": "Distribution of electric charge in space",
+            "isCorrect": false
+          },
+          {
+            "text": "Propagation of electromagnetic waves",
+            "isCorrect": false
+          },
+          {
+            "text": "Flow of heat in a material",
+            "isCorrect": false
+          },
+          {
+            "text": "Relationship between pressure and velocity in a fluid",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 32,
+        "question": "What is the shape of the magnetic field around a current-carrying loop?",
+        "options": [
+          {
+            "text": "Spherical",
+            "isCorrect": false
+          },
+          {
+            "text": "Cylindrical",
+            "isCorrect": false
+          },
+          {
+            "text": "Toroidal",
+            "isCorrect": true
+          },
+          {
+            "text": "Conical",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 33,
+        "question": "What is the wave equation for a one-dimensional wave traveling in the positive x direction with speed v?",
+        "options": [
+          {
+            "text": "∂²u/∂x² = v²∂²u/∂t²",
+            "isCorrect": false
+          },
+          {
+            "text": "∂²u/∂x² + v²∂²u/∂t² = 0",
+            "isCorrect": false
+          },
+          {
+            "text": "∂u/∂x = v²∂u/∂t",
+            "isCorrect": false
+          },
+          {
+            "text": "∂u/∂x + v²∂u/∂t = 0",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 34,
+        "question": "Which of the following is a measure of the efficiency of an antenna?",
+        "options": [
+          {
+            "text": "Directivity",
+            "isCorrect": true
+          },
+          {
+            "text": "Gain",
+            "isCorrect": true
+          },
+          {
+            "text": "Radiation resistance",
+            "isCorrect": true
+          },
+          {
+            "text": "Bandwidth",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 35,
+        "question": "Factors that affect the radiation pattern of an omnidirectional antenna is …………..",
+        "options": [
+          {
+            "text": "Length and shape of the antenna",
+            "isCorrect": true
+          },
+          {
+            "text": "Area of the antenna",
+            "isCorrect": false
+          },
+          {
+            "text": "Materials used to make the antenna",
+            "isCorrect": false
+          },
+          {
+            "text": "Height of the antenna",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 36,
+        "question": "Which of the following frequency ranges is used for Bluetooth communication?",
+        "options": [
+          {
+            "text": "2.4 GHz to 5 GHz",
+            "isCorrect": true
+          },
+          {
+            "text": "700 MHz to 800 MHz",
+            "isCorrect": false
+          },
+          {
+            "text": "1.8 GHz to 1.9 GHz",
+            "isCorrect": false
+          },
+          {
+            "text": "2.6 GHz to 2.7 GHz",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 37,
+        "question": "Which of the following techniques is used to improve the performance of a channel encoder in the presence of burst errors?",
+        "options": [
+          {
+            "text": "Convolutional coding",
+            "isCorrect": true
+          },
+          {
+            "text": "Interleaving",
+            "isCorrect": true
+          },
+          {
+            "text": "Hamming coding",
+            "isCorrect": false
+          },
+          {
+            "text": "Differential coding",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 38,
+        "question": "What is the minimum bandwidth required for a signal with a data rate of 10 Mbps using binary phase shift keying (BPSK)?",
+        "options": [
+          {
+            "text": "5 MHz",
+            "isCorrect": false
+          },
+          {
+            "text": "10 MHz",
+            "isCorrect": false
+          },
+          {
+            "text": "20 MHz",
+            "isCorrect": false
+          },
+          {
+            "text": "40 MHz",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 39,
+        "question": "What is the modulation index of an AM signal with a carrier amplitude of 10 V and a modulating signal with a peak-to-peak amplitude of 2 V?",
+        "options": [
+          {
+            "text": "0.2",
+            "isCorrect": false
+          },
+          {
+            "text": "0.4",
+            "isCorrect": false
+          },
+          {
+            "text": "0.6",
+            "isCorrect": false
+          },
+          {
+            "text": "0.8",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 40,
+        "question": "Source coding is a technique ………………..",
+        "options": [
+          {
+            "text": "To encode the information in a communication system",
+            "isCorrect": true
+          },
+          {
+            "text": "To reduce the number of bits required to represent a source signal",
+            "isCorrect": true
+          },
+          {
+            "text": "To reduce the noise in a communication channel",
+            "isCorrect": false
+          },
+          {
+            "text": "To increase the bandwidth of a communication channel",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 41,
+        "question": "Which of the following is not a type of error correction code?",
+        "options": [
+          {
+            "text": "Hamming Code",
+            "isCorrect": false
+          },
+          {
+            "text": "Convolutional Code",
+            "isCorrect": false
+          },
+          {
+            "text": "Reed-Solomon Code",
+            "isCorrect": false
+          },
+          {
+            "text": "Checksum",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "id": 42,
+        "question": "What is the power spectral density of a random process?",
+        "options": [
+          {
+            "text": "The Fourier transform of the autocorrelation function",
+            "isCorrect": true
+          },
+          {
+            "text": "The Fourier transform of the probability density function",
+            "isCorrect": false
+          },
+          {
+            "text": "The cross-correlation between the process and a delayed version of itself",
+            "isCorrect": false
+          },
+          {
+            "text": "The mean value of the process",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 43,
+        "question": "What is the bandwidth of the sinc function?",
+        "options": [
+          {
+            "text": "1 Hz",
+            "isCorrect": false
+          },
+          {
+            "text": "2 Hz",
+            "isCorrect": false
+          },
+          {
+            "text": "1/π Hz",
+            "isCorrect": true
+          },
+          {
+            "text": "π Hz",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 44,
+        "question": "What is the transfer function of an LTI system?",
+        "options": [
+          {
+            "text": "The Laplace transform of the impulse response",
+            "isCorrect": true
+          },
+          {
+            "text": "The Fourier transform of the impulse response",
+            "isCorrect": false
+          },
+          {
+            "text": "The Laplace transform of the step response",
+            "isCorrect": false
+          },
+          {
+            "text": "The Fourier transform of the step response",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 45,
+        "question": "What is the time complexity of the FFT algorithm?",
+        "options": [
+          {
+            "text": "O(N log(N))",
+            "isCorrect": true
+          },
+          {
+            "text": "O(N^2)",
+            "isCorrect": false
+          },
+          {
+            "text": "O(log(N))",
+            "isCorrect": false
+          },
+          {
+            "text": "O(N)",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 46,
+        "question": "Which of the following is a common feature of real-time operating systems?",
+        "options": [
+          {
+            "text": "Preemptive multitasking",
+            "isCorrect": true
+          },
+          {
+            "text": "Virtual memory",
+            "isCorrect": false
+          },
+          {
+            "text": "Demand paging",
+            "isCorrect": false
+          },
+          {
+            "text": "Caching",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 47,
+        "question": "Which of the following is not a common feature of embedded systems?",
+        "options": [
+          {
+            "text": "Real-time operation",
+            "isCorrect": false
+          },
+          {
+            "text": "High-speed processing",
+            "isCorrect": true
+          },
+          {
+            "text": "Low power consumption",
+            "isCorrect": false
+          },
+          {
+            "text": "Limited resources",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "id": 48,
+        "question": "What is the purpose of the linker in a compiler?",
+        "options": [
+          {
+            "text": "To convert the source code into machine code.",
+            "isCorrect": false
+          },
+          {
+            "text": "To translate the source code into object code.",
+            "isCorrect": false
+          },
+          {
+            "text": "To combine object code files into an executable program.",
+            "isCorrect": true
+          },
+          {
+            "text": "To optimize the source code for better performance.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "id": 49,
+        "question": "Which of the following is a characteristic of a real-time operating system?",
+        "options": [
+          {
+            "text": "Low latency",
+            "isCorrect": true
+          },
+          {
+            "text": "High throughput",
+            "isCorrect": false
+          },
+          {
+            "text": "Batch processing",
+            "isCorrect": false
+          },
+          {
+            "text": "Time-sharing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": 50,
+        "question": "Which of the following is not a characteristic of an embedded system?",
+        "options": [
+          {
+            "text": "Stand-alone operation",
+            "isCorrect": false
+          },
+          {
+            "text": "High-speed processing",
+            "isCorrect": true
+          },
+          {
+            "text": "Real-time operation",
+            "isCorrect": false
+          },
+          {
+            "text": "Limited resources",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ]

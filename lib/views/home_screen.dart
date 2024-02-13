@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
                   text: TextSpan(
                     children: [
                       TextSpan(
-                        text: "Flutter ",
+                        text: "NEC LICENSE ",
                         style:
                             Theme.of(context).textTheme.headlineSmall!.copyWith(
                                   fontSize: 21,
@@ -48,9 +48,9 @@ class HomePage extends StatelessWidget {
                                   fontWeight: FontWeight.w400,
                                 ),
                       ),
-                      for (var i = 0; i < "Riddles!!!".length; i++) ...[
+                      for (var i = 0; i < "GURU!!!!!".length; i++) ...[
                         TextSpan(
-                          text: "Riddles!!!"[i],
+                          text: "GURU!!!!!"[i],
                           style: Theme.of(context)
                               .textTheme
                               .headlineSmall!
