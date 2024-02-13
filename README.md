@@ -11,6 +11,8 @@ Interactive Quizzes: Engage in interactive quizzes to test your knowledge and un
 
 Developed with Efficiency: Developed within a week, the app provides a basic foundation for studying, with potential for further improvements and enhancements.
 
+credit: https://github.com/Richmond-Nunoo
+
 ## To clone this project,
 open your terminal or cmd
 
